@@ -2,7 +2,7 @@
 //  Huffman.cpp
 //  Coding
 //
-//  Created by Maryam Nouh on 12/22/20.
+
 //
 
 #include "Huffman.hpp"
